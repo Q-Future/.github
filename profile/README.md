@@ -8,7 +8,7 @@
 #### What are we working on?
 
 - **[WIP]Chinese-Q-Bench/质衡**: [Homepage](https://q-future.github.io/Chinese-Q-Bench/), [Repo](https://github.com/Q-Future/Chinese-Q-Bench) The first attempt to test multi-lingual abilities on low-level vision.
-- **[WIP]Q-Instruct**: [Homepage (TBA)](NA), [Repo (TBA)](NA), [Data](https://huggingface.co/datasets/nanyangtu/Q-Instruct) A large-scale instruction tuning dataset to improve low-level perceptual abilities of foundation models.
+- **[WIP]Q-Instruct**: [Homepage](https://q-future.github.io/Q-Instruct), [Repo](https://github.com/Q-Future/Q-Instruct),  [200K Dataset](https://huggingface.co/datasets/nanyangtu/Q-Instruct) A large-scale instruction tuning dataset to improve low-level perceptual abilities of foundation models.
 
 
 Maintained by [Teo Wu](https://github.com/teowu)@Singapore and [Zicheng Zhang](https://github.com/zzc-1998)@Shanghai.
