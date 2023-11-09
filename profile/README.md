@@ -6,7 +6,7 @@ _🔖Aiming at next-era cornerstone research_
 #### 📖 What have we published?
 
 - **Q-Bench**: [Homepage](https://q-future.github.io/Q-Bench/), [Repo](https://github.com/Q-Future/Q-Bench), [Data](https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease), [Preprint](https://arxiv.org/abs/2309.14181) The first low-level benchmark for foundation models on low-level vision.
-- Q-Instruct**: [Homepage](https://q-future.github.io/Q-Instruct), [Repo](https://github.com/Q-Future/Q-Instruct),  [200K Dataset](https://huggingface.co/datasets/teowu/Q-Instruct), [Technical Report](https://q-future.github.io/Q-Instruct/fig/Q_Instruct_v0_1_preview.pdf) A large-scale instruction tuning dataset to improve low-level perceptual abilities of foundation models.
+- **Q-Instruct**: [Homepage](https://q-future.github.io/Q-Instruct), [Repo](https://github.com/Q-Future/Q-Instruct),  [200K Dataset](https://huggingface.co/datasets/teowu/Q-Instruct), [Technical Report](https://q-future.github.io/Q-Instruct/fig/Q_Instruct_v0_1_preview.pdf) A large-scale instruction tuning dataset to improve low-level perceptual abilities of foundation models.
 
 #### 🖋️ What are we working on?
 
