@@ -3,7 +3,7 @@
 _🔖Aiming at next-era cornerstone research_
 
 ⭐ _Low-level Visual Perception | Multi-Modality Large Language Models | Visual Quality Assessment_
-#### 📖 What have we published?
+#### 📖Main Projects
 
 - ④*What is coming next?*
 
@@ -13,7 +13,7 @@ _🔖Aiming at next-era cornerstone research_
 
 - ①**Q-Bench [ICLR2024, Spotlight]**: [Homepage](https://q-future.github.io/Q-Bench/), [Repo](https://github.com/Q-Future/Q-Bench), [Data](https://github.com/Q-Future/Q-Bench/releases/tag/v1.0.1.1014datarelease), [Preprint](https://arxiv.org/abs/2309.14181) The first low-level benchmark for foundation models on low-level vision.
 
-#### 🖋️Side Projects
+#### 🖋️Extension Projects
 
 - **Q-Boost**: [Homepage](https://q-future.github.io/Q-Instruct/boost_qa) A discussion on boosting the IQA performance for non-specially-IQA-aligned MLLMs.
 
