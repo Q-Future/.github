@@ -21,5 +21,5 @@ _🔖Aiming at next-era cornerstone research_
 
 
 
-Maintained by [Teo Wu](https://github.com/teowu)@Singapore and [Zicheng Zhang](https://github.com/zzc-1998)@Shanghai.
+**Maintained by [Teo Wu](https://github.com/teowu)@Singapore and [Zicheng Zhang](https://github.com/zzc-1998)@Shanghai.**
 
